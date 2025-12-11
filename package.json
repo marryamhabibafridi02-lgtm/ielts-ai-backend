@@ -1,8 +1,0 @@
-{
-  "name": "ielts-ai-backend-vercel",
-  "version": "1.0.0",
-  "type": "module",
-  "engines": {
-    "node": "18.x"
-  }
-}
